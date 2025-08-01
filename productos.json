@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cámara IP WiFi HD",
+    "descripcion": "Vigilancia remota en alta definición con visión nocturna.",
+    "precio": 14500,
+    "imagen": "img/camara-ip.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Alarma Inalámbrica GSM",
+    "descripcion": "Sistema de alarma con control desde el celular.",
+    "precio": 18200,
+    "imagen": "img/alarma-gsm.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Sensor de Movimiento PIR",
+    "descripcion": "Ideal para interiores, detecta cualquier movimiento sospechoso.",
+    "precio": 6900,
+    "imagen": "img/sensor-movimiento.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Cerradura Electrónica Digital",
+    "descripcion": "Seguridad sin llaves, con código o huella.",
+    "precio": 23700,
+    "imagen": "img/cerradura-digital.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Kit DVR + 4 Cámaras",
+    "descripcion": "Sistema completo de videovigilancia para exteriores.",
+    "precio": 35900,
+    "imagen": "img/kit-dvr.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Botón de Pánico",
+    "descripcion": "Activación rápida de alarma en situaciones críticas.",
+    "precio": 4200,
+    "imagen": "img/boton-panico.jpg"
+  }
+]
